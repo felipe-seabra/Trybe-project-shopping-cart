@@ -76,3 +76,5 @@ Quando é executado o comando `npm run lint`, ele irá avaliar se os arquivos co
 ## Desmontração de Uso
 
 ![Project Gif](./prototipo.gif)
+
+© Desenvolvido por [Felipe Seabra](https://www.linkedin.com/in/felipe-seabra/) 
